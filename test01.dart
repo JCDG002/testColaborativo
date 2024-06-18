@@ -5,4 +5,6 @@ void main(List<String> args) {
   for (var i = 0; i < numeros.length; i++) {
     print(numeros[i]);
   }
+  // buscar numero
+  int num = 3;
 }
